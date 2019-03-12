@@ -9,7 +9,7 @@
 import Kanye from "./components/Kanye";
 
 export default {
-  name: "App",
+  name: "LOL",
   components: {
     Kanye
   }
